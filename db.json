@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "password2"
+    },
+    {
+      "id": "21b8",
+      "username": "user3",
+      "password": "password3"
+    },
+    {
+      "id": "5804",
+      "username": "shruti@gmail.com",
+      "password": "shruti123"
+    },
+    {
+      "id": "b218",
+      "username": "sj@gmail.com",
+      "password": "sh123"
+    },
+    {
+      "id": "1666",
+      "username": "hv@gmail.com",
+      "password": "hv123"
+    },
+    {
+      "id": "e30f",
+      "username": "ritu@gmai.com",
+      "password": "ritu"
+    },
+    {
+      "id": "60d2",
+      "username": "vidit@gmail.com",
+      "password": "vidit123"
+    },
+    {
+      "id": "1fcc",
+      "username": "vishnoiharsh793@gmail.com",
+      "password": "harsh"
+    }
+  ]
+}
